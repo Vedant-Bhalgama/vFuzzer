@@ -4,6 +4,7 @@ vFuzzer is a tool developed for fuzzing buffer overflows, For now, It can be use
 # Installation
 - For using the tool, All you have to do is clone this repository locally, You should have Python3 installed on your machine in order to use it.
 `git clone https://github.com/Vedant-Bhalgama/vFuzzer.git`
+- After cloning it, Make sure to install `pyfiglet`, `pip3 install pyfiglet`
 
 # Usage
 - To get the help menu, Specify the `-h` flag, Here is a brief description of each flag and what it does.
