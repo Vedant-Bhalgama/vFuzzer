@@ -22,4 +22,4 @@ vFuzzer is a tool developed for fuzzing buffer overflows, For now, It can be use
 `Example (Without Prefix) : python ./vfuzzer.py -nop -b 1000 -d 1 -t 192.168.1.32, -p 9091 -rf 1`
 
 
-![image](https://user-images.githubusercontent.com/67494275/132123054-2122c7f5-40bb-453b-968f-de18665ad771.png)
+![image](https://user-images.githubusercontent.com/67494275/132438664-aa2e95c5-613a-4a8f-901a-5cd3587820e3.png)
