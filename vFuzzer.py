@@ -5,8 +5,6 @@ import sys
 import pyfiglet
 from colorama import Fore, init
 
-init(convert=True)
-
 def banner():
     result = pyfiglet.figlet_format("vFuzz")
     print(Fore.RED + result)
